@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="lichee"
-           fetch=".." />
+           fetch="https://github.com/swiftboard/" />
   <default revision="lichee-dev"
            remote="lichee"
            sync-j="4" />
