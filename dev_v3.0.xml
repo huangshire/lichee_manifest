@@ -3,9 +3,9 @@
 
   <remote  name="lichee"
            fetch="https://github.com/swiftboard/" />
-  <!--default revision="lichee-dev"
+  <default revision="lichee-dev"
            remote="lichee"
-           sync-j="4" /-->
+           sync-j="4" />
 
   <project path="buildroot" name="lichee_buildroot">
     <copyfile src="scripts/top_build.sh" dest="build.sh" />
