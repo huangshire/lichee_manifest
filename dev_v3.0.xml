@@ -3,7 +3,7 @@
 
   <remote  name="lichee"
            fetch="https://github.com/swiftboard/" />
-  <default revision="lichee-dev"
+  <default revision="master"
            remote="lichee"
            sync-j="4" />
 
